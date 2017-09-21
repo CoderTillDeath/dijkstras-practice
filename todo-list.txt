@@ -1,3 +1,4 @@
+3 Part Plan
 1. First we need to figure out a representation of a graph
 2. Then we need to figure out how to construct it from a file
 3. Then we need to figure out how to perform dijkstras
